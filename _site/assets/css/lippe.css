@@ -49,15 +49,15 @@ body {
 }
 
 .site-logo {
-  width: 100px;
-  height: 100px;
+  width: 350px;
+  height: 350px;
   object-fit: contain;
   flex-shrink: 0;
 }
 
 .home-header .site-logo {
    width: 350px;
-   height: auto;
+   height: 350px;
    object-fit: contain;
 }
 
