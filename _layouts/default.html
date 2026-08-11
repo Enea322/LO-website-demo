@@ -1,0 +1,45 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/lippe.css' | relative_url }}">
+</head>
+<body>
+    <header class="{% if page.url == '/' %}home-header{% endif %}">
+        <div class="container">
+            <div class="site-brand">
+                <img src="{{ '/imgs/logo_lo.png' | relative_url }}" alt="Lippe Optics logo" class="site-logo">
+                {% unless page.url == '/' %}
+                <div>
+                    <h1>{{ site.title }}</h1>
+                    <p>{{ site.description }}</p>
+                </div>
+                {% endunless %}
+            </div>
+            <nav>
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <a href="{{ '/project.html' | relative_url }}">Project</a>
+                <a href="{{ '/about.html' | relative_url }}">About</a>
+                <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Lippe Optics. All rights reserved.</p>
+        <p>A University Project | Defense Innovation Initiative</p>
+        <p><a href="https://github.com/enearobaj/LO-website-demo">View on GitHub</a></p>
+        <p class="footer-disclaimer">Disclaimer: Lippe Optics is a fictional company developed as a university project for educational purposes. All products and information shown on this website are conceptual.</p>
+    </footer>
+</body>
+</html>

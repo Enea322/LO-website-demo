@@ -1,0 +1,22 @@
+title: Lippe Optics
+description: Precision Laser Systems for Defense Applications. Developer of the Mosquito Laser Targeting System.
+author: Lippe Optics Team
+url: https://enearobaj.github.io/LO-website-demo
+baseurl: /LO-website-demo
+theme: jekyll-theme-minimal
+
+# Company Information
+location: Lippstadt, Germany
+founded: 2025
+sector: Defense Technology & Laser Systems
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - docs/
