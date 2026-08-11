@@ -10,9 +10,7 @@ layout: default
   </p>
 
   <p class="hero-statement">
-    <span class="highlight-text">We as engineers</span>
-    believe that precise, compact, and environmentally responsible technology can solve real-world challenges in a smarter way.
-  </p>
+    <span class="highlight-text">We as engineers</span> believe that precise, compact, and environmentally responsible technology can solve real-world challenges in a smarter way.</p>
 </section>
 
 <section class="flagship-project">
