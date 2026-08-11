@@ -14,14 +14,18 @@
     <header class="{% if page.url == '/' %}home-header{% endif %}">
         <div class="container">
             <div class="site-brand">
+
+                {% if page.url == '/' %}
                 <img src="{{ '/imgs/logo_lo.png' | relative_url }}" alt="Lippe Optics logo" class="site-logo">
-                {% unless page.url == '/' %}
+                {% else %}
                 <div>
                     <h1>{{ site.title }}</h1>
                     <p>{{ site.description }}</p>
                 </div>
-                {% endunless %}
+                {% endif %}
+
             </div>
+
             <nav>
                 <a href="{{ '/' | relative_url }}">Home</a>
                 <a href="{{ '/project.html' | relative_url }}">Project</a>
@@ -37,9 +41,11 @@
 
     <footer>
         <p>&copy; 2026 Lippe Optics. All rights reserved.</p>
-        <p>A University Project | Defense Innovation Initiative</p>
-        <p><a href="https://github.com/enearobaj/LO-website-demo">View on GitHub</a></p>
-        <p class="footer-disclaimer">Disclaimer: Lippe Optics is a fictional company developed as a university project for educational purposes. All products and information shown on this website are conceptual.</p>
+        <p>Defense | Innovation | Initiative</p>
+        <p><a href="https://github.com/Enea322/LO-website-demo">View on GitHub</a></p>
+        <p class="footer-disclaimer">
+            Disclaimer: Lippe Optics is a fictional company developed as a university project for educational purposes. All products and information shown on this website are conceptual.
+        </p>
     </footer>
 </body>
 </html>
