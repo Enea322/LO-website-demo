@@ -2,11 +2,6 @@
 layout: default
 ---
 
-<div class="hero">
-  <h1>Lippe Optics</h1>
-  <p class="tagline">Precision Laser Systems for Defense & Beyond</p>
-</div>
-
 <section class="intro">
   <h2>Welcome to Lippe Optics</h2>
   <p>Lippe Optics is a German-based startup specializing in smart, safe, and precise laser targeting systems. Founded in Lippstadt, Germany, our mission is to develop cutting-edge laser technologies that are reliable, precise, eco-friendly, and easy to deploy. Our initial focus is on defense applications, starting with our innovative Mosquito Laser Targeting System.</p>
