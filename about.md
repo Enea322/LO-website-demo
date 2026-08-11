@@ -51,6 +51,3 @@ Mosquito-borne diseases remain a critical public health challenge. Traditional p
 - **Engineering Flexibility**: Fast iteration and adaptation to customer needs
 - **Modular Design**: Customizable with upgradeable components and add-ons
 
-## Disclaimer
-
-Lippe Optics is a fictional company created for a university project. The website and all related content are intended for educational purposes only.

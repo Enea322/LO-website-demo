@@ -70,4 +70,3 @@ We look forward to connecting with you!
 
 **Privacy Notice**: We respect your privacy and will only use your contact information to respond to your inquiry and follow-up communications related to your request. We will not share your information with third parties without consent.
 
-**Disclaimer**: Lippe Optics is a fictional company created for a university project. Any product references are conceptual and for educational purposes only.

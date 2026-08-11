@@ -116,4 +116,3 @@ Upon successful market establishment and refinement, technology can be adapted f
 
 *For technical inquiries, customization requests, or partnership opportunities, please contact us.*
 
-> **Disclaimer**: Lippe Optics is a fictional company created for a university project. The technical details on this page are conceptual and presented for educational purposes only.
