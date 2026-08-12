@@ -558,3 +558,7 @@ a:hover {
   border-color: var(--primary-color);
   transform: translateY(-2px);
 }
+
+.page-content p {
+  margin-bottom: 20px;
+}

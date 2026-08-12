@@ -14,7 +14,7 @@ We envision a future where innovative laser technology provides clean, effective
 
 ## The Team
 
-Lippe Optics was founded by two students from Hochschule Hamm-Lippstadt, using the knowledge and support gained from the amazing professors there to develop this innovative idea. We are looking for people who can help strengthen the project in the following areas:
+Lippe Optics was founded by two students from Hochschule Hamm-Lippstadt, using the knowledge and support gained from the university's professors to develop this innovative idea. Today, we are a small team of designers and engineers working together to further develop the project. We are looking for additional motivated people who would like to contribute their skills and help strengthen the project in the following areas:
 
 <br>
 
@@ -25,6 +25,8 @@ Lippe Optics was founded by two students from Hochschule Hamm-Lippstadt, using t
 - 3D printing
 
 Our current focus combines:
+
+<br>
 
 - Advanced engineering and laser technology expertise
 - Computer vision and sensor integration knowledge
@@ -55,9 +57,6 @@ Mosquito-borne diseases remain a critical public health challenge. Traditional p
 - **Scalability**: Flexible deployment from small to large installations
 
 ## Competitive Advantages
-
-<br>
-
 - **Innovative Technology**: Few competitors use laser technology; those that do have bulky, expensive, or less precise systems
 - **Eco-Friendly**: Chemical-free alternative to traditional pest control
 - **Portability**: Compact design (2.5 cm × 20 cm) with 360° rotation
