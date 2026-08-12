@@ -97,9 +97,15 @@ Upon successful market establishment and refinement, the technology can be adapt
 
 One of our key future development goals is the design and production of a **custom PCB specifically developed for the Mosquito Laser Targeting System**. This would allow us to integrate the system's sensors, processing hardware, power management, and control electronics into a more compact and optimized platform.
 
+<br>
+
 We are currently looking for people interested in **PCB design and embedded hardware development** who could contribute to this development process. Using our **Iwalat & Key-ah development process** in **KiCad**, we are preparing the foundation for manufacturing our first custom PCB design. 
 
+<br>
+
 If you are interested in learning more about PCB design and contributing to future hardware development, we recommend the official KiCad tutorial. The complete tutorial typically takes around **6–7 hours** and provides a practical introduction to designing a PCB from start to finish.
+
+<br>
 
 **Interested in learning PCB design?**  
 [Get started with the official KiCad tutorial](https://docs.kicad.org/9.0/en/getting_started_in_kicad/getting_started_in_kicad.html)

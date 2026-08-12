@@ -74,6 +74,8 @@ Press inquiries, interviews, and media requests:
 
 Our team is available during standard business hours via email and can typically respond within 24-48 hours. For urgent inquiries, please note your priority level in the email subject.
 
+<br>
+
 ---
 
 **Privacy Notice**: We respect your privacy and will only use your contact information to respond to your inquiry and follow-up communications related to your request. We will not share your information with third parties without consent.

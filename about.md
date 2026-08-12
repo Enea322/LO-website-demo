@@ -16,6 +16,8 @@ We envision a future where innovative laser technology provides clean, effective
 
 Lippe Optics was founded by two students from Hochschule Hamm-Lippstadt, using the knowledge and support gained from the amazing professors there to develop this innovative idea. We are looking for people who can help strengthen the project in the following areas:
 
+<br>
+
 - Embedded systems
 - PCB Design
 - Programming
@@ -33,6 +35,9 @@ Our current focus combines:
 
 ### Mosquito Laser Targeting System
 Our flagship product uses advanced laser technology with integrated sensors and cameras to detect and eliminate mosquitoes. This technology has applications in:
+
+<br>
+
 - **Pest Control**: Outdoor events, municipalities, and public institutions
 - **Defense Operations**: Scalable systems from 10 to over 1,000 units
 - **Public Health**: Disease vector control in high-risk regions
@@ -41,13 +46,17 @@ Our flagship product uses advanced laser technology with integrated sensors and 
 ## Why This Matters
 
 Mosquito-borne diseases remain a critical public health challenge. Traditional pest control methods are often ineffective, environmentally harmful, or require constant maintenance. Our laser-based solution offers:
-    
+
+<br>
+
 - **Precision**: Eliminates mosquitoes with laser accuracy
 - **Safety**: Chemical-free and safe for humans and ecosystems
 - **Reliability**: Autonomous operation with minimal maintenance
 - **Scalability**: Flexible deployment from small to large installations
 
 ## Competitive Advantages
+
+<br>
 
 - **Innovative Technology**: Few competitors use laser technology; those that do have bulky, expensive, or less precise systems
 - **Eco-Friendly**: Chemical-free alternative to traditional pest control
