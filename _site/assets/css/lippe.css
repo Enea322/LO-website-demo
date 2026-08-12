@@ -566,9 +566,15 @@ a:hover {
 .collaboration-image {
   display: block;
   width: 100%;
-  max-width: 700px;
+  max-width: 400px;
   height: auto;
   margin: 25px auto 40px;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.collaboration-image:hover {
+  transform: scale(1.02);
 }

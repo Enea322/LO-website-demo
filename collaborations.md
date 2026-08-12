@@ -18,7 +18,13 @@ Our team supported a local medical facility in developing a pager unit designed 
 
 Using data shared from other units through MQTT messages, the nurses can be alerted in real time in case of emergencies. By applying the MQTT knowledge gained during the development of the Mosquito Laser Targeting System, our team was able to further enhance the capabilities of the existing pager system at the medical facility.
 
-<img src="{{ '/imgs/pager_unit.jpeg' | relative_url }}" alt="Patient monitoring pager unit" class="collaboration-image">
+<br>
+
+<a href="{{ '/imgs/pager_unit.jpeg' | relative_url }}" target="_blank">
+  <img src="{{ '/imgs/pager_unit.jpeg' | relative_url }}"
+       alt="Patient monitoring pager unit"
+       class="collaboration-image">
+</a>
 
 ### Project 2 – Custom 8-bit CPU
 
@@ -30,6 +36,8 @@ In collaboration with another company, an 8-bit CPU was developed for a specific
 Testing was performed on an FPGA to verify the functionality of the design, using tools including **Intel Questa** and **AMD Vivado**.
 
 Furthermore, a custom PCB was developed for the project, incorporating all required components and features. This collaboration provided valuable experience for both teams and offered further insight into FPGA development, VHDL, and custom hardware design.
+
+<br>
 
 <img src="{{ '/imgs/vhdl.jpeg' | relative_url }}" alt="Custom 8-bit CPU development" class="collaboration-image">
 
