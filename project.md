@@ -32,6 +32,10 @@ The Mosquito Laser Targeting System is a compact, portable device that uses adva
    - Integrated solar panel for outdoor charging
    - Efficient power distribution across all systems
 
+### KEVIN Architecture
+
+The KEVIN (**K**inetic **E**vent **V**erification & **I**ntelligent **N**avigation) architecture is a modular methodology developed for the Mosquito Laser Targeting System. It combines target detection, event verification, tracking, and controlled response into a structured processing pipeline. The architecture is designed to ensure that a detected object is properly identified and verified before any targeting action is initiated.
+
 ## Product Specifications
 
 ### Physical Specifications
@@ -75,16 +79,30 @@ The Mosquito Laser Targeting System is a compact, portable device that uses adva
 ## Applications
 
 ### Primary Markets
+
 - **Event Organizers**: Outdoor events, festivals, and gatherings
 - **Municipalities**: Public parks, streets, and communal areas
 - **Institutions**: Universities, hospitals, and government facilities
 - **Defense Sector**: Scalable systems for military and security applications
 
 ### Future Applications
-Upon successful market establishment and refinement, technology can be adapted for:
+
+Upon successful market establishment and refinement, the technology can be adapted for:
+
 - Larger-scale defense systems
 - Advanced targeting and tracking applications
 - Integration into existing security infrastructure
+
+### Future Hardware Development
+
+One of our key future development goals is the design and production of a **custom PCB specifically developed for the Mosquito Laser Targeting System**. This would allow us to integrate the system's sensors, processing hardware, power management, and control electronics into a more compact and optimized platform.
+
+We are currently looking for people interested in **PCB design and embedded hardware development** who could contribute to this development process. Using our **Iwalat & Key-ah development process** in **KiCad**, we are preparing the foundation for manufacturing our first custom PCB design. 
+
+If you are interested in learning more about PCB design and contributing to future hardware development, we recommend the official KiCad tutorial. The complete tutorial typically takes around **6–7 hours** and provides a practical introduction to designing a PCB from start to finish.
+
+**Interested in learning PCB design?**  
+[Get started with the official KiCad tutorial](https://docs.kicad.org/9.0/en/getting_started_in_kicad/getting_started_in_kicad.html)
 
 ## Development Status
 
@@ -96,11 +114,13 @@ Upon successful market establishment and refinement, technology can be adapted f
 ## Customization & Upgrades
 
 ### Current Offering
+
 - Base laser targeting system with standard camera and sensor array
 - 11.1V battery with solar charging option
 - 360° rotating dual-axis mount
 
 ### Future Customization Options
+
 - Different color schemes for various applications
 - Add-on modules for enhanced functionality
 - Upgrades to more powerful lasers for larger-scale deployments
@@ -109,12 +129,12 @@ Upon successful market establishment and refinement, technology can be adapted f
 
 ## Environmental & Safety Compliance
 
-- **Eco-Friendly**: Zero chemical discharge, no environmental toxins
-- **Human Safety**: Safe laser wavelength with no harm to humans at normal distances
-- **Animal Safety**: Selective targeting ensures minimal impact on non-target insects
-- **Sustainable**: Solar-powered operation reduces carbon footprint
+**EU Compliance:** The Mosquito Laser Targeting System is designed with applicable EU safety, environmental, and product-compliance requirements in mind, including relevant CE conformity requirements where applicable.
 
----
+- **Eco-Friendly**: Zero chemical discharge, no environmental toxins
+- **Human Safety**: Designed with laser safety and protection requirements in mind
+- **Animal Safety**: Selective targeting is designed to minimize impact on non-target insects
+- **Sustainable**: Solar-powered operation reduces carbon footprint
 
 *For technical inquiries, customization requests, or partnership opportunities, please contact us.*
 

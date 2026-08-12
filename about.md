@@ -15,12 +15,15 @@ We envision a future where innovative laser technology provides clean, effective
 ## The Team
 
 Lippe Optics was founded by two students from Hochschule Hamm-Lippstadt, using the knowledge and support gained from the amazing professors there to develop this innovative idea. We are looking for people who can help strengthen the project in the following areas:
+
 - Embedded systems
+- PCB Design
 - Programming
 - Computer vision
 - 3D printing
 
 Our current focus combines:
+
 - Advanced engineering and laser technology expertise
 - Computer vision and sensor integration knowledge
 - Defense technology innovation experience
@@ -38,6 +41,7 @@ Our flagship product uses advanced laser technology with integrated sensors and 
 ## Why This Matters
 
 Mosquito-borne diseases remain a critical public health challenge. Traditional pest control methods are often ineffective, environmentally harmful, or require constant maintenance. Our laser-based solution offers:
+    
 - **Precision**: Eliminates mosquitoes with laser accuracy
 - **Safety**: Chemical-free and safe for humans and ecosystems
 - **Reliability**: Autonomous operation with minimal maintenance

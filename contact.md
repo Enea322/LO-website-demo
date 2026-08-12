@@ -8,7 +8,7 @@ We'd love to hear from you! Whether you're interested in our laser targeting tec
 
 ## Contact Us
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="contact-form">
+<form action="https://formspree.io/f/mljrnrgg" method="POST" class="contact-form">
 
   <label for="name">Name</label>
   <input type="text" id="name" name="name" placeholder="Your name" required>
@@ -70,19 +70,9 @@ Press inquiries, interviews, and media requests:
 - University project features
 - Technology innovation stories
 
-## Quick Information
-
-**Who We Are**: A German startup specializing in precision laser targeting systems, currently focused on mosquito control solutions with applications in defense sectors.
-
-**Our Products**: The Mosquito Laser Targeting System - a compact, portable, eco-friendly laser-based solution for precise mosquito elimination.
-
-**Our Market**: Event organizers, municipalities, institutions, and defense applications across Europe and globally.
-
-**Our Vision**: To establish ourselves as leaders in precision laser technology, starting with the pest control market and expanding into defense applications.
-
 ## Office Hours
 
-Our team is available during standard business hours via email and can typically respond within 24-48 hours. For urgent inquiries, please note your priority level.
+Our team is available during standard business hours via email and can typically respond within 24-48 hours. For urgent inquiries, please note your priority level in the email subject.
 
 ---
 
