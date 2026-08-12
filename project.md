@@ -35,8 +35,9 @@ The Mosquito Laser Targeting System is a compact, portable device that uses adva
 ## Product Specifications
 
 ### Physical Specifications
+
 | Specification | Details |
-|-----------|---------|
+|---|---|
 | **Height** | 2.5 cm |
 | **Length** | 20 cm |
 | **Rotation** | 360° coverage |
@@ -45,8 +46,9 @@ The Mosquito Laser Targeting System is a compact, portable device that uses adva
 | **Design** | Modular with customization options |
 
 ### Capabilities
+
 | Feature | Description |
-|---------|-------------|
+|---|---|
 | **Detection Range** | Real-time mosquito identification |
 | **Targeting Accuracy** | Precision laser targeting |
 | **Operating Conditions** | Outdoor and indoor deployment |

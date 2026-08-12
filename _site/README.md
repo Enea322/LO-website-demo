@@ -1,6 +1,7 @@
 # Lippe Optics Website
 
-A professional website for a university startup project showcasing the Mosquito Laser Targeting System concept.
+A professional website for a university startup project showcasing the Mosquito Laser Targeting System concept. 
+Website: https://enea322.github.io/LO-website-demo/
 
 > **⚠️ DISCLAIMER**: Lippe Optics is a **fictional startup company** developed as a university project for educational purposes. This website is a demonstration of business planning and web development concepts. The products, services, and company information presented here are conceptual and not real commercial offerings.
 
