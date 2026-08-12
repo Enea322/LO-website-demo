@@ -29,7 +29,7 @@ We'd love to hear from you! Whether you're interested in our laser targeting tec
 ## Contact Information
 
 **Email**: [contact@lippeoptics.com](mailto:contact@lippeoptics.com)  
-**Location**: Lippstadt, Germany  
+**Location**: Rixbecker Str. 20, Lippstadt, Germany  
 **University Project**: Business Communications
 
 ## Inquiries & Opportunities
