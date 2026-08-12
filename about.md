@@ -63,3 +63,14 @@ Mosquito-borne diseases remain a critical public health challenge. Traditional p
 - **Engineering Flexibility**: Fast iteration and adaptation to customer needs
 - **Modular Design**: Customizable with upgradeable components and add-ons
 
+## Artificial Intelligence & AI-Assisted Engineering
+
+At Lippe Optics, we see **Artificial Intelligence as a tool that enhances human expertise rather than replacing it**. We integrate AI-assisted tools into our engineering and development workflows to improve productivity, explore new ideas, analyze data, and support technical decision-making.
+
+Our interest in AI also extends to **hardware acceleration**. We explore technologies such as dedicated AI accelerators and **Neural Processing Units (NPUs)** to enable efficient local AI processing and real-time applications.
+
+We believe that the most effective approach is to combine human creativity, engineering knowledge, and modern AI technologies.
+
+### Interested in AI?
+
+If you are interested in learning more about how we use AI and AI-accelerated hardware in our projects, feel free to contact us. **Please mention Daniel in your email**, and your inquiry will be directed to our AI specialist.

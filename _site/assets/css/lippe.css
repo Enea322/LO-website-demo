@@ -562,3 +562,13 @@ a:hover {
 .page-content p {
   margin-bottom: 20px;
 }
+
+.collaboration-image {
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  margin: 25px auto 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
