@@ -10,7 +10,8 @@ layout: default
   </p>
 
   <p class="hero-statement">
-  <span class="highlight-text">We as engineers</span> believe that precise, compact, and environmentally responsible technology can solve real-world challenges in a smarter way.
+  <span style="font-size: 1.6em; font-weight: 700;">We as engineers</span>
+  believe that precise, compact, and environmentally responsible technology can solve real-world challenges in a smarter way.
 </p>
 </section>
 
@@ -51,6 +52,67 @@ layout: default
       <p>Compact design with 360° rotation capability. Customizable with add-on modules and upgrades.</p>
     </div>
   </div>
+</section>
+
+<section class="faq">
+  <h2>Frequently Asked Questions</h2>
+
+  <details>
+    <summary>What is the Mosquito Laser Targeting System?</summary>
+    <p>
+      The Mosquito Laser Targeting System is a conceptual precision targeting
+      platform designed to detect, track, and selectively engage mosquitoes
+      using laser technology.
+    </p>
+  </details>
+
+  <details>
+    <summary>Is the system safe for humans?</summary>
+    <p>
+      Safety is a central consideration in the design of the system. The
+      concept focuses on controlled targeting, appropriate operating
+      distances, and safety mechanisms intended to minimize risks to humans
+      and other non-target objects.
+    </p>
+  </details>
+
+  <details>
+    <summary>How does the system detect mosquitoes?</summary>
+    <p>
+      The system uses camera-based detection and image processing to identify
+      potential mosquito targets and determine their position before the
+      targeting system is activated.
+    </p>
+  </details>
+
+  <details>
+    <summary>Can the system be used outdoors?</summary>
+    <p>
+      The system is being designed with portable outdoor operation in mind,
+      including battery-powered operation and potential solar charging.
+    </p>
+  </details>
+
+  <details>
+    <summary>Is Lippe Optics currently selling the product?</summary>
+    <p>
+      No. The Mosquito Laser Targeting System is currently a conceptual
+      project under development. The technologies and applications
+      presented on this website are intended for demonstration and
+      educational purposes.
+    </p>
+  </details>
+
+  <details>
+    <summary>What kind of businesses do you serve?</summary>
+   <p>
+    We work with businesses, institutions, municipalities, and organizations
+    interested in innovative engineering solutions, laser technology,
+    electronics, embedded systems, AI, and hardware development. We are also
+    open to partnerships with companies and projects looking for technical
+    assistance or collaborative development.
+  </p>
+</details>
 </section>
 
 <section class="cta">
