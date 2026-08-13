@@ -49,13 +49,34 @@
     </main>
 
     <footer>
-        <p>&copy; 2026 Lippe Optics. All rights reserved.</p>
-        <p>Defense | Innovation | Initiative</p>
-        <p><a href="https://github.com/Enea322/LO-website-demo">View on GitHub</a></p>
-        <p class="footer-disclaimer">
-            Disclaimer: Lippe Optics is a fictional company developed as a university project for educational purposes. All products and information shown on this website are conceptual.
-        </p>
-    </footer>
+    <div class="footer-content">
+
+        <div class="footer-logo">
+            <img src="{{ '/imgs/logo_loW.png' | relative_url }}"
+                 alt="Lippe Optics logo">
+        </div>
+
+        <div class="footer-info">
+            <p>&copy; 2026 Lippe Optics. All rights reserved.</p>
+            <p>Defense | Innovation | Initiative</p>
+
+            <p>
+                <a href="{{ '/privacy.html' | relative_url }}">Privacy Policy</a>
+                |
+                <a href="{{ '/terms.html' | relative_url }}">Terms of Service</a>
+                |
+                <a href="https://github.com/Enea322/LO-website-demo">View on GitHub</a>
+            </p>
+        </div>
+
+    </div>
+
+    <p class="footer-disclaimer">
+        Disclaimer: Lippe Optics is a fictional company developed as a university
+        project for educational purposes. All products and information shown on
+        this website are conceptual.
+    </p>
+</footer>
 
 </body>
 </html>
