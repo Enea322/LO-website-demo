@@ -20,10 +20,10 @@ Using data shared from other units through MQTT messages, the nurses can be aler
 
 <br>
 
-<a href="{{ '/imgs/pager_unit.jpeg' | relative_url }}" target="_blank">
-  <img src="{{ '/imgs/pager_unit.jpeg' | relative_url }}"
-       alt="Patient monitoring pager unit"
-       class="collaboration-image">
+<img src="{{ '/imgs/pager_unit.jpeg' | relative_url }}"
+     alt="Patient monitoring pager unit"
+     class="collaboration-image"
+     onclick="openLightbox(this)">
 </a>
 
 ### Project 2 – Custom 8-bit CPU
@@ -39,7 +39,10 @@ Furthermore, a custom PCB was developed for the project, incorporating all requi
 
 <br>
 
-<img src="{{ '/imgs/vhdl.jpeg' | relative_url }}" alt="Custom 8-bit CPU development" class="collaboration-image">
+<img src="{{ '/imgs/vhdl.jpeg' | relative_url }}"
+     alt="Custom 8-bit CPU development"
+     class="collaboration-image"
+     onclick="openLightbox(this)">
 
 
 ## Our Contribution
@@ -61,3 +64,19 @@ Our team can provide support in areas including:
 We are open to working with students, engineers, designers, researchers, and other project teams who are interested in developing innovative technical solutions.
 
 If you have a project that could benefit from our expertise, feel free to **get in touch with us**.
+
+<div id="image-lightbox" class="image-lightbox" onclick="closeLightbox()">
+  <span class="lightbox-close">&times;</span>
+  <img id="lightbox-image" src="" alt="">
+</div>
+
+<script>
+function openLightbox(image) {
+  document.getElementById("lightbox-image").src = image.src;
+  document.getElementById("image-lightbox").classList.add("active");
+}
+
+function closeLightbox() {
+  document.getElementById("image-lightbox").classList.remove("active");
+}
+</script>
