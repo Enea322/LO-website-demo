@@ -622,3 +622,19 @@ a:hover {
   font-size: 1.6em;
   font-weight: 700;
 }
+
+footer .footer-logo {
+  width: 40px !important;
+  height: 40px !important;
+  flex: 0 0 40px !important;
+}
+
+footer .footer-logo img {
+  width: 35px !important;
+  height: 35px !important;
+  max-width: 35px !important;
+  max-height: 35px !important;
+  min-width: 35px !important;
+  min-height: 35px !important;
+  object-fit: contain !important;
+}
