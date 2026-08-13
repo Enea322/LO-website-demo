@@ -54,21 +54,26 @@ layout: default
   </div>
 </section>
 
-<section class="faq">
+<section class="faq" style="margin-top: 50px; width: 100%; float: none; padding-bottom: 0;">
+
   <h2>Frequently Asked Questions</h2>
 
-  <details>
-    <summary>What is the Mosquito Laser Targeting System?</summary>
-    <p>
+  <details style="background: white; border: 2px solid #1a3a52; border-radius: 8px; margin-bottom: 18px; padding: 0;">
+    <summary style="padding: 20px 24px; cursor: pointer; font-size: 1.2em; font-weight: 700; color: #1a3a52;">
+      What is the Mosquito Laser Targeting System?
+    </summary>
+    <p style="padding: 0 24px 22px; margin: 0; font-size: 1.05em; line-height: 1.7;">
       The Mosquito Laser Targeting System is a conceptual precision targeting
       platform designed to detect, track, and selectively engage mosquitoes
       using laser technology.
     </p>
   </details>
 
-  <details>
-    <summary>Is the system safe for humans?</summary>
-    <p>
+  <details style="background: white; border: 2px solid #1a3a52; border-radius: 8px; margin-bottom: 18px; padding: 0;">
+    <summary style="padding: 20px 24px; cursor: pointer; font-size: 1.2em; font-weight: 700; color: #1a3a52;">
+      Is the system safe for humans?
+    </summary>
+    <p style="padding: 0 24px 22px; margin: 0; font-size: 1.05em; line-height: 1.7;">
       Safety is a central consideration in the design of the system. The
       concept focuses on controlled targeting, appropriate operating
       distances, and safety mechanisms intended to minimize risks to humans
@@ -76,43 +81,51 @@ layout: default
     </p>
   </details>
 
-  <details>
-    <summary>How does the system detect mosquitoes?</summary>
-    <p>
+  <details style="background: white; border: 2px solid #1a3a52; border-radius: 8px; margin-bottom: 18px; padding: 0;">
+    <summary style="padding: 20px 24px; cursor: pointer; font-size: 1.2em; font-weight: 700; color: #1a3a52;">
+      How does the system detect mosquitoes?
+    </summary>
+    <p style="padding: 0 24px 22px; margin: 0; font-size: 1.05em; line-height: 1.7;">
       The system uses camera-based detection and image processing to identify
       potential mosquito targets and determine their position before the
       targeting system is activated.
     </p>
   </details>
 
-  <details>
-    <summary>Can the system be used outdoors?</summary>
-    <p>
+  <details style="background: white; border: 2px solid #1a3a52; border-radius: 8px; margin-bottom: 18px; padding: 0;">
+    <summary style="padding: 20px 24px; cursor: pointer; font-size: 1.2em; font-weight: 700; color: #1a3a52;">
+      Can the system be used outdoors?
+    </summary>
+    <p style="padding: 0 24px 22px; margin: 0; font-size: 1.05em; line-height: 1.7;">
       The system is being designed with portable outdoor operation in mind,
       including battery-powered operation and potential solar charging.
     </p>
   </details>
 
-  <details>
-    <summary>Is Lippe Optics currently selling the product?</summary>
-    <p>
+  <details style="background: white; border: 2px solid #1a3a52; border-radius: 8px; margin-bottom: 18px; padding: 0;">
+    <summary style="padding: 20px 24px; cursor: pointer; font-size: 1.2em; font-weight: 700; color: #1a3a52;">
+      Is Lippe Optics currently selling the product?
+    </summary>
+    <p style="padding: 0 24px 22px; margin: 0; font-size: 1.05em; line-height: 1.7;">
       No. The Mosquito Laser Targeting System is currently a conceptual
-      project under development. The technologies and applications
-      presented on this website are intended for demonstration and
-      educational purposes.
+      project under development. The technologies and applications presented
+      on this website are intended for demonstration and educational purposes.
     </p>
   </details>
 
-  <details>
-    <summary>What kind of businesses do you serve?</summary>
-   <p>
-    We work with businesses, institutions, municipalities, and organizations
-    interested in innovative engineering solutions, laser technology,
-    electronics, embedded systems, AI, and hardware development. We are also
-    open to partnerships with companies and projects looking for technical
-    assistance or collaborative development.
-  </p>
-</details>
+  <details style="background: white; border: 2px solid #1a3a52; border-radius: 8px; margin-bottom: 18px; padding: 0;">
+    <summary style="padding: 20px 24px; cursor: pointer; font-size: 1.2em; font-weight: 700; color: #1a3a52;">
+      What kind of businesses do you serve?
+    </summary>
+    <p style="padding: 0 24px 22px; margin: 0; font-size: 1.05em; line-height: 1.7;">
+      We work with businesses, institutions, municipalities, and organizations
+      interested in innovative engineering solutions, laser technology,
+      electronics, embedded systems, AI, and hardware development. We are also
+      open to partnerships with companies and projects looking for technical
+      assistance or collaborative development.
+    </p>
+  </details>
+
 </section>
 
 <section class="cta">
