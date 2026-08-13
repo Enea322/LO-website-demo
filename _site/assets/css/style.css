@@ -460,9 +460,3 @@ footer {
     padding: 0.4in;
     font-size: 12pt;
     color: #444; } }
-
-  .footer-logo img {
-  width: 35px;
-  height: 35px;
-  object-fit: contain;
-}
