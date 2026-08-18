@@ -17,49 +17,70 @@
 
 <body>
 
-    <header class="{% if page.url == '/' %}home-header{% else %}inner-header{% endif %}">
-        <div class="container">
+<!-- Cookie Consent Banner -->
+<div id="cookie-banner" class="cookie-banner">
+    <div class="cookie-content">
+        <h3>Cookie Preferences</h3>
 
-            <div class="site-brand">
+        <p>
+            We use cookies and similar technologies to improve your browsing
+            experience. You can choose whether to accept optional cookies.
+        </p>
 
-                {% if page.url == '/' %}
-                    <img src="{{ '/imgs/logo_loW.png' | relative_url }}"
-                         alt="Lippe Optics logo"
-                         class="site-logo">
-                {% else %}
-                    <img src="{{ '/imgs/logo_loW.png' | relative_url }}"
-                         alt="Lippe Optics logo"
-                         class="site-logo">
+        <div class="cookie-buttons">
+            <button id="cookie-accept">Accept</button>
+            <button id="cookie-decline">Decline</button>
+            <a href="{{ '/privacy.html' | relative_url }}">Privacy Policy</a>
+        </div>
+    </div>
+</div>
 
-                    <div class="site-brand-text">
-                        <p>{{ site.description }}</p>
-                    </div>
-                {% endif %}
+<!-- Header -->
+<header class="{% if page.url == '/' %}home-header{% else %}inner-header{% endif %}">
+    <div class="container">
 
-            </div>
+        <div class="site-brand">
 
-            <nav>
-                <a href="{{ '/' | relative_url }}">Home</a>
-                <a href="{{ '/project.html' | relative_url }}">Project</a>
-                <a href="{{ '/collaborations.html' | relative_url }}">Collaborations</a>
-                <a href="{{ '/about.html' | relative_url }}">About</a>
-                <a href="{{ '/contact.html' | relative_url }}">Contact</a>
-            </nav>
+            {% if page.url == '/' %}
+                <img src="{{ '/imgs/logo_loW.png' | relative_url }}"
+                     alt="Lippe Optics logo"
+                     class="site-logo">
+            {% else %}
+                <img src="{{ '/imgs/logo_loW.png' | relative_url }}"
+                     alt="Lippe Optics logo"
+                     class="site-logo">
+
+                <div class="site-brand-text">
+                    <p>{{ site.description }}</p>
+                </div>
+            {% endif %}
 
         </div>
-    </header>
 
-    <main class="container">
-        {{ content }}
-    </main>
+        <nav>
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <a href="{{ '/project.html' | relative_url }}">Project</a>
+            <a href="{{ '/collaborations.html' | relative_url }}">Collaborations</a>
+            <a href="{{ '/about.html' | relative_url }}">About</a>
+            <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+        </nav>
 
-    <footer>
+    </div>
+</header>
+
+<!-- Main Content -->
+<main class="container">
+    {{ content }}
+</main>
+
+<!-- Footer -->
+<footer>
     <div class="footer-content">
 
         <div class="footer-logo">
-        <img src="{{ '/imgs/logo_loW.png' | relative_url }}"
-         alt="Lippe Optics logo"
-         style="width: 100px; height: 100px; object-fit: contain;">
+            <img src="{{ '/imgs/logo_loW.png' | relative_url }}"
+                 alt="Lippe Optics logo"
+                 style="width: 100px; height: 100px; object-fit: contain;">
         </div>
 
         <div class="footer-info">
@@ -83,25 +104,6 @@
         this website are conceptual.
     </p>
 </footer>
-
-<!-- Cookie Consent Banner -->
-<div id="cookie-banner" class="cookie-banner">
-    <div class="cookie-content">
-        <h3>Cookie Preferences</h3>
-
-        <p>
-            We use cookies and similar technologies to improve your browsing
-            experience. You can choose whether to accept optional cookies.
-        </p>
-
-        <!-- Cookie Action Buttons -->
-        <div class="cookie-buttons">
-            <button id="cookie-accept">Accept</button>
-            <button id="cookie-decline">Decline</button>
-            <a href="{{ '/privacy.html' | relative_url }}">Privacy Policy</a>
-        </div>
-    </div>
-</div>
 
 <!-- Cookie Consent Logic -->
 <script>

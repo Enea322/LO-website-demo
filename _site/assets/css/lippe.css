@@ -720,16 +720,19 @@ footer .footer-logo img {
 /* Cookie Consent Banner */
 .cookie-banner {
   position: fixed !important;
+  display: block !important;
   bottom: 20px !important;
   right: 20px !important;
   width: 360px !important;
-  max-width: calc(100% - 40px);
+  max-width: calc(100% - 40px) !important;
   background: white !important;
   border: 2px solid var(--primary-color) !important;
   border-radius: 10px !important;
   padding: 20px !important;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2) !important;
-  z-index: 9999 !important;
+  z-index: 99999 !important;
+  float: none !important;
+  margin: 0 !important;
 }
 
 /* Cookie Banner Heading */
