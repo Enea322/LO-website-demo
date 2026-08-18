@@ -695,3 +695,24 @@ footer .footer-logo img {
   line-height: 1.7;
   color: var(--text-color);
 }
+
+.error-page {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.error-page h1 {
+  font-size: 6em;
+  margin: 0;
+  color: var(--secondary-color);
+}
+
+.error-page h2 {
+  border-bottom: none;
+  font-size: 2em;
+}
+
+.error-page p {
+  font-size: 1.1em;
+  margin-bottom: 30px;
+}
