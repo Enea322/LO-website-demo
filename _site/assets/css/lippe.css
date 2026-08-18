@@ -716,3 +716,64 @@ footer .footer-logo img {
   font-size: 1.1em;
   margin-bottom: 30px;
 }
+
+/* Cookie Consent Banner */
+.cookie-banner {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 360px;
+  max-width: calc(100% - 40px);
+  background: white;
+  border: 2px solid var(--primary-color);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+}
+
+/* Cookie Banner Heading */
+.cookie-content h3 {
+  margin-top: 0;
+  color: var(--primary-color);
+}
+
+/* Cookie Banner Description */
+.cookie-content p {
+  font-size: 0.9em;
+  margin-bottom: 15px;
+}
+
+/* Cookie Action Buttons */
+.cookie-buttons {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* General Cookie Button Styling */
+.cookie-buttons button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+/* Accept Button */
+#cookie-accept {
+  background-color: var(--secondary-color);
+  color: white;
+}
+
+/* Decline Button */
+#cookie-decline {
+  background-color: var(--light-gray);
+  color: var(--primary-color);
+}
+
+/* Privacy Policy Link */
+.cookie-buttons a {
+  font-size: 0.9em;
+}

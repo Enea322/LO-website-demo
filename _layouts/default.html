@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/lippe.css' | relative_url }}">
     <link rel="icon" type="image/png" href="{{ '/imgs/logo_loW.png' | relative_url }}">
 </head>
+
 <body>
 
     <header class="{% if page.url == '/' %}home-header{% else %}inner-header{% endif %}">
@@ -82,6 +83,53 @@
         this website are conceptual.
     </p>
 </footer>
+
+<!-- Cookie Consent Banner -->
+<div id="cookie-banner" class="cookie-banner">
+    <div class="cookie-content">
+        <h3>Cookie Preferences</h3>
+
+        <p>
+            We use cookies and similar technologies to improve your browsing
+            experience. You can choose whether to accept optional cookies.
+        </p>
+
+        <!-- Cookie Action Buttons -->
+        <div class="cookie-buttons">
+            <button id="cookie-accept">Accept</button>
+            <button id="cookie-decline">Decline</button>
+            <a href="{{ '/privacy.html' | relative_url }}">Privacy Policy</a>
+        </div>
+    </div>
+</div>
+
+<!-- Cookie Consent Logic -->
+<script>
+    const cookieBanner = document.getElementById("cookie-banner");
+    const acceptButton = document.getElementById("cookie-accept");
+    const declineButton = document.getElementById("cookie-decline");
+
+    // Hide the banner if the user has already made a choice
+    if (localStorage.getItem("cookieChoice")) {
+        cookieBanner.style.display = "none";
+    }
+
+    // Store the user's choice and hide the banner
+    function saveCookieChoice(choice) {
+        localStorage.setItem("cookieChoice", choice);
+        cookieBanner.style.display = "none";
+    }
+
+    // Accept optional cookies
+    acceptButton.addEventListener("click", () => {
+        saveCookieChoice("accepted");
+    });
+
+    // Decline optional cookies
+    declineButton.addEventListener("click", () => {
+        saveCookieChoice("declined");
+    });
+</script>
 
 </body>
 </html>
