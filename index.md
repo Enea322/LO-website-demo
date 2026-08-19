@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="icon" type="image/png" href="{{ '/imgs/logo_loW.png' | relative_url }}">
+
 <section class="intro">
   <h2>Welcome to Lippe Optics</h2>
 
