@@ -36,7 +36,7 @@ We'd love to hear from you! Whether you're interested in our laser targeting tec
 
 ## Contact Information
 
-**Email**: [contact@lippeoptics.com](mailto:contact@lippeoptics.com)  
+**Email**: [contact@lippeoptics.com](mailto:contact@lippeoptics.site)  
 **Location**: Rixbecker Str. 20, Lippstadt, Germany  
 **University Project**: Business Communications
 
@@ -80,7 +80,7 @@ Press inquiries, interviews, and media requests:
 
 ## Office Hours
 
-Our team is available during standard business hours via email and can typically respond within 24-48 hours. For urgent inquiries, please note your priority level in the email subject.
+Our team is available during standard business hours via email and can typically respond within 24-48 hours. For urgent inquiries, please note your priority level in the email subject. You can contact us directly at <a href="mailto:contact@lippeoptics.site">contact@lippeoptics.site</a>
 
 <br>
 
