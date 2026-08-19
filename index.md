@@ -132,10 +132,10 @@ layout: default
 
 <section class="cta">
   <h2>Learn More</h2>
-  <p>Interested in our technology, collaborations, or potential applications?</p>
+  <p>Interested in our technology, developments, or potential applications?</p>
 
   <a href="about.html" class="btn">About Us</a>
   <a href="project.html" class="btn">Technical Details</a>
-  <a href="collaborations.html" class="btn">Collaborations</a>
+  <a href="blog.html" class="btn">Blog</a>
   <a href="contact.html" class="btn">Get in Touch</a>
 </section>
