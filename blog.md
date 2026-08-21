@@ -25,7 +25,7 @@ Insights, projects, and technical developments from Lippe Optics.
      ">
 
     <h2 style="margin-top: 0; color: #1a3a52;">
-      Patient Monitoring System – Pager
+      Patient Monitoring System - Pager
     </h2>
 
     <p style="font-size: 1.05em;">

@@ -5,6 +5,17 @@ title: Custom 8-bit CPU Development
 
 <article>
 
+<p style="margin-bottom: 25px;">
+  <a href="{{ '/blog.html' | relative_url }}"
+     style="
+       color:#1a3a52;
+       text-decoration:none;
+       font-weight:600;
+     ">
+    ← Back to Engineering Blog
+  </a>
+</p>
+
 <h1 style="color:#1a3a52;">Custom 8-bit CPU Development</h1>
 
 <p style="color:#777; font-size:0.95em;">
@@ -149,6 +160,17 @@ The Custom 8-bit CPU project provides a practical introduction to processor
 architecture and digital hardware development. By combining VHDL, FPGA
 technology, and PCB design, the project demonstrates the complete development
 path from digital architecture to physical hardware.
+</p>
+
+<p style="margin-top: 35px;">
+  <a href="{{ '/blog.html' | relative_url }}"
+     style="
+       color:#1a3a52;
+       text-decoration:none;
+       font-weight:600;
+     ">
+    ← Back to Engineering Blog
+  </a>
 </p>
 
 </article>
