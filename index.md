@@ -130,6 +130,40 @@ layout: default
 
 </section>
 
+<section style="
+  background: #f5f5f5;
+  border: 2px solid #1a3a52;
+  border-radius: 10px;
+  padding: 30px;
+  margin-top: 40px;
+  text-align: center;
+">
+
+  <h2 style="color: #1a3a52; margin-top: 0;">
+    Interested in Joining Our Team?
+  </h2>
+
+  <p style="font-size: 1.05em;">
+    We're always interested in meeting motivated engineers, developers,
+    and technical thinkers who want to work on innovative projects.
+  </p>
+
+  <a href="{{ '/careers.html' | relative_url }}"
+     style="
+       display: inline-block;
+       margin-top: 10px;
+       padding: 10px 20px;
+       background: #1a3a52;
+       color: white;
+       border-radius: 6px;
+       text-decoration: none;
+       font-weight: 600;
+     ">
+    View Careers →
+  </a>
+
+</section>
+
 <section class="cta">
   <h2>Learn More</h2>
   <p>Interested in our technology, developments, or potential applications?</p>
