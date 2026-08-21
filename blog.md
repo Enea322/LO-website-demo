@@ -11,17 +11,21 @@ Insights, projects, and technical developments from Lippe Optics.
 
 <div style="display: grid; gap: 25px;">
 
-  <div style="
-    background: #f5f5f5;
-    border: 2px solid #1a3a52;
-    border-radius: 10px;
-    padding: 25px;
-  ">
+  <!-- Patient Monitoring System -->
+  <a href="{{ '/blog/patient-monitoring-system.html' | relative_url }}"
+     style="
+       display: block;
+       background: #f5f5f5;
+       border: 2px solid #1a3a52;
+       border-radius: 10px;
+       padding: 25px;
+       text-decoration: none;
+       color: inherit;
+       transition: transform 0.2s, box-shadow 0.2s;
+     ">
+
     <h2 style="margin-top: 0; color: #1a3a52;">
-     <a href="{{ '/blog/patient-monitoring-system.html' | relative_url }}"
-        style="color: #1a3a52; text-decoration: none;">
-       Patient Monitoring System – Pager
-     </a>
+      Patient Monitoring System – Pager
     </h2>
 
     <p style="font-size: 1.05em;">
@@ -34,27 +38,43 @@ Insights, projects, and technical developments from Lippe Optics.
       <span style="background:#1a3a52;color:white;padding:5px 10px;border-radius:15px;font-size:0.85em;">
         Embedded Systems
       </span>
+
       <span style="background:#1a3a52;color:white;padding:5px 10px;border-radius:15px;font-size:0.85em;">
         MQTT
       </span>
+
       <span style="background:#1a3a52;color:white;padding:5px 10px;border-radius:15px;font-size:0.85em;">
         Engineering
       </span>
     </div>
-  </div>
+
+    <p style="
+      margin-top: 20px;
+      margin-bottom: 0;
+      color: #1a3a52;
+      font-weight: 700;
+    ">
+      Read Article →
+    </p>
+
+  </a>
 
 
-  <div style="
-    background: #f5f5f5;
-    border: 2px solid #1a3a52;
-    border-radius: 10px;
-    padding: 25px;
-  ">
+  <!-- Custom 8-bit CPU -->
+  <a href="{{ '/blog/8-bit-cpu.html' | relative_url }}"
+     style="
+       display: block;
+       background: #f5f5f5;
+       border: 2px solid #1a3a52;
+       border-radius: 10px;
+       padding: 25px;
+       text-decoration: none;
+       color: inherit;
+       transition: transform 0.2s, box-shadow 0.2s;
+     ">
+
     <h2 style="margin-top: 0; color: #1a3a52;">
-     <a href="{{ '/blog/8-bit-cpu.html' | relative_url }}"
-        style="color: #1a3a52; text-decoration: none;">
       Custom 8-bit CPU Development
-     </a>
     </h2>
 
     <p style="font-size: 1.05em;">
@@ -66,14 +86,26 @@ Insights, projects, and technical developments from Lippe Optics.
       <span style="background:#1a3a52;color:white;padding:5px 10px;border-radius:15px;font-size:0.85em;">
         VHDL
       </span>
+
       <span style="background:#1a3a52;color:white;padding:5px 10px;border-radius:15px;font-size:0.85em;">
         FPGA
       </span>
+
       <span style="background:#1a3a52;color:white;padding:5px 10px;border-radius:15px;font-size:0.85em;">
         PCB Design
       </span>
     </div>
-  </div>
+
+    <p style="
+      margin-top: 20px;
+      margin-bottom: 0;
+      color: #1a3a52;
+      font-weight: 700;
+    ">
+      Read Article →
+    </p>
+
+  </a>
 
 </div>
 
@@ -98,4 +130,5 @@ added to the blog as our projects develop.
 
 <br>
 
-If you have a project that could benefit from our expertise, feel free to **get in touch with us**.
+If you have a project that could benefit from our expertise, feel free to
+**get in touch with us**.
