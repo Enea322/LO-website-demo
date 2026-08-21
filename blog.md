@@ -18,7 +18,10 @@ Insights, projects, and technical developments from Lippe Optics.
     padding: 25px;
   ">
     <h2 style="margin-top: 0; color: #1a3a52;">
-      Patient Monitoring System - Pager
+     <a href="{{ '/blog/patient-monitoring-system.html' | relative_url }}"
+        style="color: #1a3a52; text-decoration: none;">
+       Patient Monitoring System – Pager
+     </a>
     </h2>
 
     <p style="font-size: 1.05em;">
@@ -48,7 +51,10 @@ Insights, projects, and technical developments from Lippe Optics.
     padding: 25px;
   ">
     <h2 style="margin-top: 0; color: #1a3a52;">
+     <a href="{{ '/blog/8-bit-cpu.html' | relative_url }}"
+        style="color: #1a3a52; text-decoration: none;">
       Custom 8-bit CPU Development
+     </a>
     </h2>
 
     <p style="font-size: 1.05em;">
